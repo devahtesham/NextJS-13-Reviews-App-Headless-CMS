@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Hades",
+    "date": "2023-05-28",
+    "image": "/uploads/hades_2018_bff8e28a82.jpg",
+    "slug": "hades-2018"
+  },
+  {
+    "title": "Fall Guys: Ultimate Knockout",
+    "date": "2023-05-27",
+    "image": "/uploads/fall_guys_9f9b386677.jpg",
+    "slug": "fall-guys"
+  },
+  {
+    "title": "Black Mesa",
+    "date": "2023-05-26",
+    "image": "/uploads/black_mesa_f27df07b74.jpg",
+    "slug": "black-mesa"
+  },
+  {
+    "title": "Disco Elysium",
+    "date": "2023-05-25",
+    "image": "/uploads/disco_elysium_897a229c9a.jpg",
+    "slug": "disco-elysium"
+  },
+  {
+    "title": "Dead Cells",
+    "date": "2023-05-24",
+    "image": "/uploads/dead_cells_de459ea5a7.jpg",
+    "slug": "dead-cells"
+  },
+  {
+    "title": "A Way Out",
+    "date": "2023-05-23",
+    "image": "/uploads/a_way_out_2018_8efe22cb7f.jpg",
+    "slug": "a-way-out-2018"
+  }
+]
